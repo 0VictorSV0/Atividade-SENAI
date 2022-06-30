@@ -2,7 +2,6 @@
 Victor SV - Criando Branch
 
 
-# Atividade-SENAI
 Criar uma branch cada um, mesclando todos depois.
 Criar um README.md
 
@@ -18,3 +17,7 @@ Setar arquivos a serem ignorados
 git config --global core.excludesfile ~/.gitignore
 Listar configurações
 git config --list
+
+
+branch-Alessandro
+
